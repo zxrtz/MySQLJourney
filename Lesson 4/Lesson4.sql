@@ -73,7 +73,7 @@ WHERE prod_price BETWEEN 5 AND 10;
 
 
  /*
- * CHALLENGE 1:
+ * CHALLENGE 4:
  * return the product name (prod_name) and price (prod_price) from Products for all products priced between 3 and 6. Oh, and sort the results by price.
  */
  SELECT prod_name,prod_price
