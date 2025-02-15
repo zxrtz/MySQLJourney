@@ -1,2 +1,2 @@
 # MySQLJourney
-The Progress of All of My SQL Projects
+The progress of my journey to learning beginner SQL using textbook readings.
