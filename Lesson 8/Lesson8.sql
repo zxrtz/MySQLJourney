@@ -4,6 +4,7 @@
  */
 
  ---------------------- text manipulation
+
 /*
  * the UPPER function:
  * transforms text into full uppercase
@@ -30,15 +31,14 @@
  */
  SELECT SOUNDEX(vend_name) AS vend_name_soundex FROM Vendors;
 
-/*
- * Using SOUNDEX() function to find text with similar phonetics
- * searching for a name that "sounds" like Michael Green, returning Michelle Green
- */
+-- Using SOUNDEX(): search for name that "sounds" like Michael Green, returning Michelle Green
  SELECT cust_name,cust_contact
  FROM Customers
  WHERE SOUNDEX(cust_contact) = SOUNDEX('Michael Green');
 
  ---------------------------- end of text manipulation
+
+
 
  ---------------------------- date and time manip.
 
@@ -88,6 +88,7 @@
  */
 
 ---------------------------------- end numeric functions
+
 
 /*
  * Challenge 1:
