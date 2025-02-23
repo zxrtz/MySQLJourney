@@ -28,7 +28,7 @@
 
  /*
   * UNDERSCORE wildcard
-  * matches single character
+  * matches any single character
   */
   SELECT prod_id,prod_name
   FROM Products
