@@ -1,6 +1,8 @@
 /*
  * Lesson 15:
  * Inserting Data
+ * INSERT (INTO), VALUES()
+ * INSERT SELECT (copy table)
  */
  
 /*

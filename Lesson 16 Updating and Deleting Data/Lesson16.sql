@@ -1,6 +1,8 @@
 /*
  * Lesson 16. Updating and Deleting Data
- *
+ * UPDATE, SET
+ * DELETE FROM
+ * 
  */
 
 
