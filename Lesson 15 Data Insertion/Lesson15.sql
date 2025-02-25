@@ -167,7 +167,7 @@ VALUES(10000000011,
 			'Fairfax',
 			'VA',
 			'22030',
-			'US')
+			'USA')
 
 /* 
 Challenge 2:
